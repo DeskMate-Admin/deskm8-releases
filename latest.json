@@ -1,6 +1,11 @@
 {
   "version": "0.1.0",
-  "notes": "Placeholder manifest. No desktop update published yet.",
-  "pub_date": "2026-05-29T00:00:00Z",
-  "platforms": {}
+  "notes": "Initial desktop release.",
+  "pub_date": "2026-05-28T22:37:10.319Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbWFFWWxSZFU0K0lKTFRJRTJZV1h3bUFWRjNZS0xKZ2tRUyt3eE9INzV5LzA4bTF3UUFKSHNQbEZtTUhNYTFjWDBnOEJlejc5V3lhUHgrbkxlVHFyNUY4eS83MVgzTmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDA3NjUyCWZpbGU6RGVza004LmFwcC50YXIuZ3oKdWp5SzAyZXZ5ZkpWYmZlL0wwakFUd25VQzRJdTR2eHhzU28vTHQ0SUk3VWRzejFqY3dQZ2hxMndCRHNaa1FTbUtLK0RBQ0pQbjR3NEU4dzh1VWRaQWc9PQo=",
+      "url": "https://github.com/DeskMate-Admin/deskm8-releases/releases/download/v0.1.0/DeskM8.app.tar.gz"
+    }
+  }
 }
